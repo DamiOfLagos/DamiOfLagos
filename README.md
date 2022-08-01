@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamiOfLagos
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python and SQL.
+- 👀 I’m interested in Data Analytics and Analytical Engineering.
+- 🌱 Learning Python, SQL and DBT.
 - 
 
 <!---
